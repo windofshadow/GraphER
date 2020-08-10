@@ -1,0 +1,1 @@
+down load glove.6B.200d.txt from https://nlp.stanford.edu/projects/glove/
